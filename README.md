@@ -1,0 +1,2 @@
+# BAI-TAP-5
+VU LAN_K225480106036_Trigger on mssql
